@@ -6,4 +6,4 @@
 ### Hex - Webpage will be colored with 'God-know-which' color by randonly choosing a hex color value in every click
 
 # Demo
-<a href="#">Click here</a> to see the live demo
+<a href="https://al-color-flipper.netlify.app/index.html">Click here</a> to see the live demo
