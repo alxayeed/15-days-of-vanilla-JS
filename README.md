@@ -1,4 +1,9 @@
 # 15 days of Vanilla JS
-# 15 days , 15 tiny projects
+# Day 01 - Color Flipper
 
-## All the projects will be developed in specific branches. Please select the desired branch to see the project.
+## Change the background color of the webpage by clicking the button
+### Simple - Webpage will be colored to specific 4 colors
+### Hex - Webpage will be colored with 'God-know-which' color by randonly choosing a hex color value in every click
+
+# Demo
+<a href="#">Click here</a> to see the live demo
