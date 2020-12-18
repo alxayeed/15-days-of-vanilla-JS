@@ -1,4 +1,7 @@
 # 15 days of Vanilla JS
-# 15 days , 15 tiny projects
+## Day 03 - Review
 
-## All the projects will be developed in specific branches. Please select the desired branch to see the project.
+### show details of a person
+
+## Live Demo
+<a href="" _target="blank">Click here</a> to see the live demo
