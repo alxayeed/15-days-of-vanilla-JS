@@ -8,4 +8,4 @@
 - Randomly choose a person from the array
 
 ## Live Demo
-<a href="alapp-review.netlify.app" target="_blank">Click here</a> to see the live demo
+<a href="https://alapp-review.netlify.app/" target="_blank">Click here</a> to see the live demo
