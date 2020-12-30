@@ -6,7 +6,8 @@ When the window is small sized, you can't see Home, About or Other Navigation bu
 
 If you click that button, nav links will toggle on and off. 
 This functionality is done using the javascript to change the style of the nav links.
-Click the 
+
+<b>You must try it reducing the browser window size!</b>
 
 ## Live Demo
-<a class href="#" target="_blank">Click here</a> to see the live demo
+<a class href="https://al-toggle-switcher.netlify.app/" target="_blank" >Click here</a> to see the live demo

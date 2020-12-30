@@ -207,10 +207,8 @@ nav {
   height: 10rem;
 }
 .info{
-    font-size: 36px;
-    display: flex;
-    justify-content: center;
-    margin-top: 24px;
+    text-align: center;
+    margin-top: 48px;
 }
 @media screen and (min-width: 800px) {
   .nav-center {
